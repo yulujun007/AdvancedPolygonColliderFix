@@ -1,5 +1,6 @@
 # AdvancedPolygonColliderFix
 about AdvancedPolygonCollider Fix
+替换掉插件内的此文件
 
 unity Asset Store 的插件 AdvancedPolygonCollider；
 使用Atlas图集，在运行时出现问题。
